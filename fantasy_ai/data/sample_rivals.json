@@ -1,0 +1,23 @@
+[
+  {
+    "team_id": "rival1",
+    "manager_name": "Manager 1",
+    "players": [
+      1,
+      2,
+      4
+    ],
+    "total_points": 245,
+    "team_value": 85.5
+  },
+  {
+    "team_id": "rival2",
+    "manager_name": "Manager 2",
+    "players": [
+      2,
+      3
+    ],
+    "total_points": 267,
+    "team_value": 88.2
+  }
+]
