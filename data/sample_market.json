@@ -1,0 +1,66 @@
+{
+  "market_data": [
+    {
+      "player_id": 1,
+      "current_price": 12.5,
+      "price_change": 0.3,
+      "predicted_price": 12.8,
+      "demand": 0.8,
+      "supply": 0.2
+    },
+    {
+      "player_id": 2,
+      "current_price": 8.5,
+      "price_change": -0.1,
+      "predicted_price": 8.4,
+      "demand": 0.4,
+      "supply": 0.6
+    },
+    {
+      "player_id": 3,
+      "current_price": 6.5,
+      "price_change": 0.2,
+      "predicted_price": 6.7,
+      "demand": 0.7,
+      "supply": 0.3
+    },
+    {
+      "player_id": 5,
+      "current_price": 7.8,
+      "price_change": 0.5,
+      "predicted_price": 8.3,
+      "demand": 0.9,
+      "supply": 0.1
+    }
+  ],
+  "fixtures": [
+    {
+      "team_home": "Real Madrid",
+      "team_away": "Getafe",
+      "gameweek": 15,
+      "difficulty_home": 2,
+      "difficulty_away": 4
+    },
+    {
+      "team_home": "Barcelona", 
+      "team_away": "Sevilla",
+      "gameweek": 15,
+      "difficulty_home": 3,
+      "difficulty_away": 3
+    },
+    {
+      "team_home": "Atlético Madrid",
+      "team_away": "Valencia",
+      "gameweek": 15,
+      "difficulty_home": 4,
+      "difficulty_away": 5
+    },
+    {
+      "team_home": "Real Sociedad",
+      "team_away": "Athletic Bilbao",
+      "gameweek": 15,
+      "difficulty_home": 3,
+      "difficulty_away": 3
+    }
+  ]
+}
